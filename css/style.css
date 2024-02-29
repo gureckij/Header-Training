@@ -12,6 +12,9 @@ body {
 
 .main-nav {
     display: flex;
+
+    /* Центральное положение элементов */
+    align-items: center;
 }
 
 .logo {
