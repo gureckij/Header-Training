@@ -1,6 +1,15 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: #f8f8f8;
+}
+
+.site-navigation-item a {
     font-size: 13px;
     line-height: 18px;
-    background-color: #f8f8f8;
+    color: #333333;
+    text-decoration: none;
+}
+
+.site-navigation-item .active-item {
+    color: #f79727;
 }
