@@ -17,6 +17,10 @@ body {
 .logo {
     width: 65px;
     margin-right: 55px;
+
+    /* Добавить обнуление отступов */
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .site-navigation {
