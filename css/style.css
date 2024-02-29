@@ -63,4 +63,7 @@ body {
 .signin {
     width: 25px;
     margin-left: auto;
+
+    /* Высота блока */
+    height: 25px;
 }
