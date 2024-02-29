@@ -44,6 +44,11 @@ body {
     margin-right: 45px;
 }
 
+.site-navigation-item:last-child {
+    /* Отмените установку отступа */
+    margin-right: 0;
+}
+
 .site-navigation-item a {
     font-size: 13px;
     line-height: 18px;
