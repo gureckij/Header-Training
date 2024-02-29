@@ -21,6 +21,9 @@ body {
     /* Добавить обнуление отступов */
     margin-top: 0;
     margin-bottom: 0;
+
+    /* Добавить высоту контейнера */
+    height: 65px;
 }
 
 .site-navigation {
