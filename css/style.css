@@ -63,6 +63,14 @@ body {
     color: #f79727;
 }
 
+.site-navigation-item a:hover {
+    color: #f79727;
+}
+
+.site-navigation-item a:active {
+    color: rgba(247, 151, 39, 0.7);
+}
+
 .signin {
     width: 25px;
     margin-left: auto;
