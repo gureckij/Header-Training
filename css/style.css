@@ -1,6 +1,29 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #f8f8f8;
+    margin: 0;
+}
+
+.page-header {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 30px 50px;
+}
+
+.main-nav {
+    display: flex;
+}
+
+.logo {
+    width: 65px;
+    margin-right: 55px;
+}
+
+.site-navigation {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 980px;
 }
 
 .site-navigation-item a {
@@ -12,4 +35,9 @@ body {
 
 .site-navigation-item .active-item {
     color: #f79727;
+}
+
+.signin {
+    width: 25px;
+    margin-left: auto;
 }
