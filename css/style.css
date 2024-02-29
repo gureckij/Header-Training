@@ -31,6 +31,9 @@ body {
     padding: 0;
     list-style: none;
     width: 980px;
+
+    /* Расположить элементы навигации в ряд */
+    display: flex;
 }
 
 .site-navigation-item a {
