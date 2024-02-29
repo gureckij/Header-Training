@@ -39,6 +39,11 @@ body {
     flex-wrap: wrap;
 }
 
+.site-navigation-item {
+    /* Установите отступ справа по макету */
+    margin-right: 45px;
+}
+
 .site-navigation-item a {
     font-size: 13px;
     line-height: 18px;
